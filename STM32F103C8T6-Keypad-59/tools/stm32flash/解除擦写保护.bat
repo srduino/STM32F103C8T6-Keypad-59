@@ -1,0 +1,1 @@
+stm32flash.exe -k COM4
